@@ -5,13 +5,13 @@
 
 
 
-![sql](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
+
 
 
 ![1 1](https://user-images.githubusercontent.com/61002120/76401843-8c6f9580-63a8-11ea-855b-be7a387d250b.png)
+![sql](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
 
-
-## STEPS TO BE FOLLOWED
+## Progression
 
 
 > 1. **Write a query to display the team details. Display the records sorted in the order of team name.**
